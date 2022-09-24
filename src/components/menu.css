@@ -1,3 +1,5 @@
+@import "colors.css";
+
 .menuItemsContainer{
   list-style-type: none;
   margin: 0;
@@ -7,6 +9,7 @@
 }
 
 .menuContainer{
+  vertical-align: middle;
   background-color: var(--menuBackground);
   width: 100%;
 }
@@ -17,5 +20,13 @@
 }
 
 .menuItem{
-  padding: 4rem;
+  display:flex;
+  align-items:center;
+  background-color: black;
+  margin-right: 4px;
+  margin-bottom: 2rem;
+  border: 1px solid #fff;
+  padding: 1rem;
+  color: var(--menu-text-color);
+  text-decoration: none;
 }

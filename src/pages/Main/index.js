@@ -1,14 +1,19 @@
 import React, { useState } from 'react';
 import Menu from '../../components/menu';
-
+import JornalList from '../../components/jornalList';
+import * as model from '../../service/model';
 
 function Main(){
-    
+    const jornalList = model.getJornals();
     return (
         <div>
           <Menu />
-          <h1>Essential of the Christian </h1>
+          <h1>Christian's Essential </h1>
           <p>This web page is for all Christians to speak about the essential parts of the Gospel of Jesus Christ</p>
+
+          <div>
+          <JornalList list={jornalList}/>
+          </div>
         </div>
     );
 }
