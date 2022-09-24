@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/essentialofthechristian.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/essentialofthechristian.github.io/static/js/main.d0fa18d5.js",
+    "main.css": "/essentialofthechristian.github.io/static/css/main.aa4e38e1.css",
+    "main.js": "/essentialofthechristian.github.io/static/js/main.2f908cd6.js",
     "static/js/787.f587e8d5.chunk.js": "/essentialofthechristian.github.io/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/essentialofthechristian.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/essentialofthechristian.github.io/index.html",
-    "main.073c9b0a.css.map": "/essentialofthechristian.github.io/static/css/main.073c9b0a.css.map",
-    "main.d0fa18d5.js.map": "/essentialofthechristian.github.io/static/js/main.d0fa18d5.js.map",
+    "main.aa4e38e1.css.map": "/essentialofthechristian.github.io/static/css/main.aa4e38e1.css.map",
+    "main.2f908cd6.js.map": "/essentialofthechristian.github.io/static/js/main.2f908cd6.js.map",
     "787.f587e8d5.chunk.js.map": "/essentialofthechristian.github.io/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d0fa18d5.js"
+    "static/css/main.aa4e38e1.css",
+    "static/js/main.2f908cd6.js"
   ]
 }
