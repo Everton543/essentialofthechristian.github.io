@@ -9,8 +9,8 @@ function Menu() {
     <div className='menuContainer'>
       <div className='menuItemsContainer'>
         <img src={logo} alt="logo" width={"50px"} />
-        <MenuItem link={'/essentialofthechristian.github.io/'} title={'Home'}> </MenuItem>
-        <MenuItem link={'/essentialofthechristian.github.io//#/Jornals'} title={'Messsages'}></MenuItem>
+        <MenuItem link={'/'} title={'Home'}> </MenuItem>
+        <MenuItem link={'/#/Jornals'} title={'Messsages'}></MenuItem>
 
       </div>
     </div>
