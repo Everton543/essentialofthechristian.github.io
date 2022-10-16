@@ -72,9 +72,9 @@ export function getJornalById(id){
             id: "test"
         },
         {
-            title: "Test2",
-            subtitle: "Test is a test2",
-            text: 'This is a test2',
+            title: "Being Humble to God",
+            subtitle: "How to understand a personal revelation",
+            text: 'As a Christian, it is important to understand that God answers our prayer and He does not want us to remain in doubt about His will. To understand it first you need to know that Christ did everything that God wished for, when he explained the gospel, it was because God wanted His gospel to be simple and understood by the people. (John 14:1-14) \n \n So what is God\'s will about answering our prayer? \n \n 1- If we ask and search for an answer He will help us receive the answer. (Matthew 7: 7-11) \n 2- Do not doubt that the answer will come. (Matthew 21:21-22) 3- We must ask for something according to God\'s will. (1 James 5:14) \n \n But an important information about receiving the revelation(or the blessing) is that we must accept a no for an asnwer, since we must follow God\'s will, and not making Him do our will. If do not do that, we are at risk of making what is written on 2 Timothy 4:3-4 \n "For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears; \n And they shall turn away their ears from the truth, and shall be turned unto fables."',
             id: "test2"
         }
     ];
